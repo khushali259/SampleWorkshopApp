@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 else
                     textView.setVisibility(View.VISIBLE);
                 if(clicks == 1){
-                    Toast.makeText(MainActivity.this, clicks + " clicks", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, clicks + " click", Toast.LENGTH_SHORT).show();
                 }
                 Toast.makeText(MainActivity.this, clicks + " clicks", Toast.LENGTH_SHORT).show();
 
